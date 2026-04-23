@@ -19,12 +19,6 @@ This AI-driven system enhances criminal detection by analyzing both CCTV footage
 3. Sketch-to-Image Feature – Converts rough sketches into realistic colorized images for enhanced facial matching.
 4. Database Storage – Stores extracted face feature vectors, names, and locations for quick retrieval and matching.
 
-## Team Members
-
-1. [Mit Gandhi](https://github.com/Mit-Gandhi) 
-2. [Rishit Srivastava](https://github.com/rishitsrivastav) 
-3. [Kritansh Tank](https://github.com/Kritansh-Tank)
-
 ## Tech Stack
 
 ### Frontend
